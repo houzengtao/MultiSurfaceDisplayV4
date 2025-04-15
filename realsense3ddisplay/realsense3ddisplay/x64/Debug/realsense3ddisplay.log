@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Eigentest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\program files (x86)\intel realsense sdk 2.0\include\librealsense2\hpp\rs_device.hpp(251): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(115): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(335): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(464): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\program files (x86)\intel realsense sdk 2.0\samples\example.hpp(468): warning C4244: “初始化”: 从“const std::size_t”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\eigen\eigen\src\core\arch\cuda\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(284): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(293): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(307): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(314): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(414): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(415): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(416): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(429): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(533): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(534): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(535): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(596): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(603): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(271): warning C4101: “upoint”: 未引用的局部变量
+c:\users\xin\documents\visual studio 2015\projects\realsense3ddisplay\realsense3ddisplay\main.cpp(684): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  realsense3ddisplay.vcxproj -> C:\Users\xin\documents\visual studio 2015\Projects\realsense3ddisplay\x64\Debug\realsense3ddisplay.exe
+  realsense3ddisplay.vcxproj -> C:\Users\xin\documents\visual studio 2015\Projects\realsense3ddisplay\x64\Debug\realsense3ddisplay.pdb (Full PDB)
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  复制了 1 个文件

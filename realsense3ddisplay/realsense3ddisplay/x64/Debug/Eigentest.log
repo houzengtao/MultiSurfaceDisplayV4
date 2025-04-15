@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\xin\documents\visual studio 2015\projects\eigentest\eigentest\eigen\eigen\src\core\arch\cuda\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\xin\documents\visual studio 2015\projects\eigentest\eigentest\main.cpp(80): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Eigentest.vcxproj -> c:\users\xin\documents\visual studio 2015\Projects\Eigentest\x64\Debug\Eigentest.exe
+  Eigentest.vcxproj -> c:\users\xin\documents\visual studio 2015\Projects\Eigentest\x64\Debug\Eigentest.pdb (Full PDB)
